@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: rgb(242, 78, 33);
+    border: solid;
+    text-decoration: yellow underline;
+}
+
+h3{
+    text-align: center;
+    color: peru;
+}
+
+h2{
+    font-weight: 900;
+}
+
+p{
+    color: red;
+    font-weight: 355;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+}
