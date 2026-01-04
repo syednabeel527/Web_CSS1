@@ -1,5 +1,8 @@
  h1 {
-            color: blue;
-            background-color: black;
-            text-align: center;
+        color: blue;
+        text-align: center;
         }
+p   {
+        color: purple;
+        text-align: center;
+    }
